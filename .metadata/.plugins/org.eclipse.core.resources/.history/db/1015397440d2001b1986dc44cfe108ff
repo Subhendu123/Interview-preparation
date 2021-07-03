@@ -1,0 +1,82 @@
+package com.personal.hackerank;
+
+import java.util.Arrays;
+
+public class MShackerrankString {
+
+	public static void main(String[] args) {
+		String s = "baccc";
+		int k = 2;
+		// o/p : cbacc
+		// ccc
+		String output = getLargestString(s, k);
+
+		System.out.println(output);
+
+	}
+
+	private static String getLargestString(String s, int k) {
+		StringBuffer sb = new StringBuffer(s);
+		
+		char[] a = s.toCharArray();
+		char[] op = a.clone();
+		char[] finalop = new char[s.length()];
+		int index = 0;
+		Arrays.sort(op);
+		for(int i=op.length-1;i>-1;i--,index++) {
+			finalop[index] = op[i];
+			System.out.println(finalop[index]);
+		}
+		
+		for(int i=0;i<finalop.length;i++) {
+			int duplicate = 0;
+			for(int j=i;j< finalop.length;j++) {
+				if(finalop[i]==finalop[j]) {
+					duplicate++;
+					if(duplicate==k) {
+						//swap
+						
+					}
+						
+				}
+			}
+		}
+			
+		
+			
+		
+//		for (int i = 0; i < s.length(); i++) {
+//			op[i] = a[i];
+//			System.out.println("A[i]******* "+a[i]);
+//			for (int j = i + 1; j < s.length(); j++) {
+//				if ((int)a[i] < (int)a[j]) {
+//					
+//				}
+//			}
+//		}
+		return sb.toString();
+	}
+		
+	private static String getLargestString2(String s, int k) { 
+		char[] arr = s.toCharArray(); 
+		String tempString = ""; 
+		String output = ""; 
+		for(int i=0;i<s.length();i++) { 
+			int duplicate = 1; 
+			for(int j=i+1;j<s.length();j++) {
+				if(arr[i] == arr[j] && tempString.indexOf(arr[i]) == -1) {
+					duplicate++; 
+					if(duplicate >= k) { 
+						tempString = arr[i] + ""; 
+						output = s.substring(0, j+1); 
+						output = s.substring(j+1).concat(output); 
+						break; 
+					}
+				} 
+			} 
+		}
+		return output; 
+	}
+	 
+
+}

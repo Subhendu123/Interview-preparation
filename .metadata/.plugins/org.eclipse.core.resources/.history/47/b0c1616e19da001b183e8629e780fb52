@@ -1,0 +1,20 @@
+package com.sdas.orclcon.repository;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class OracleConnTest{
+
+	@Autowired
+	private EntityManager em;
+	
+	public List<TestTable> getAllData(){
+		
+		(List<TestTable>)em.createQuery("select * from testtbl").getResultList();
+	}
+}

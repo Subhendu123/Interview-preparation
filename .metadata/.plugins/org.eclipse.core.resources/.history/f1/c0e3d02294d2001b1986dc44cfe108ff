@@ -1,0 +1,21 @@
+package com.personal.hackerank;
+
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.TreeSet;
+import java.util.concurrent.BlockingDeque;
+import java.util.concurrent.LinkedBlockingDeque;
+import java.util.concurrent.TimeUnit;
+
+//import com.sun.tools.classfile.Opcode.Set;
+
+public class Test {
+
+	public static void main(String[] args){
+		
+		System.out.println("zabaa".compareTo("zbaa"));
+	}
+
+}
+

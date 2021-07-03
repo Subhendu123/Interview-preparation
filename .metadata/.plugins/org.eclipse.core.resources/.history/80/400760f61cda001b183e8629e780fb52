@@ -1,0 +1,17 @@
+package com.sdas.orclcon.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.repository.NoRepositoryBean;
+
+@NoRepositoryBean
+public interface OracleConnTest extends JpaRepository<TestTable, Integer>{
+
+	/*
+	 * @Autowired private EntityManager em;
+	 * 
+	 * public List<TestTable> getAllData(){
+	 * 
+	 * return
+	 * (List<TestTable>)em.createQuery("select * from testtbl").getResultList(); }
+	 */
+}

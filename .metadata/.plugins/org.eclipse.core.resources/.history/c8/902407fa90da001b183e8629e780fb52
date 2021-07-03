@@ -1,0 +1,32 @@
+package com.sdas.orclcon;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
+
+import com.sdas.orclcon.repository.OracleConnTest;
+
+@SpringBootApplication
+public class OrclconApplication implements CommandLineRunner{
+//	@Autowired
+//	public ConnectionDAO connectionDAO;
+	
+	@Autowired
+	private OracleConnTest oracleConnImpl;
+	
+	public static void main(String[] args) {
+		SpringApplication.run(OrclconApplication.class, args);
+	}
+	
+	@Override
+	public void run(String... args) throws Exception{
+		System.out.println("/************* ALLL DATA ******************/");
+//		System.out.println(connectionDAO.findAll());
+		
+		System.out.println("/******** NEW *************/");
+		System.out.println(oracleConnImpl.findAll());
+	}
+
+}

@@ -1,0 +1,170 @@
+package com.sdas.orclcon.repository;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.Map;
+
+import org.springframework.data.jpa.repository.support.SimpleJpaRepository;
+
+import oracle.jdbc.OracleArray;
+import oracle.jdbc.OracleTypeMetaData;
+
+public class OracleConnImpl extends SimpleJpaRepository<TestTbl, Integer> implements OracleConnTest<TestTbl, Integer> {
+
+	@Override
+	public String getBaseTypeName() throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int getBaseType() throws SQLException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public Object getArray() throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Object getArray(Map<String, Class<?>> map) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Object getArray(long index, int count) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Object getArray(long index, int count, Map<String, Class<?>> map) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ResultSet getResultSet() throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ResultSet getResultSet(Map<String, Class<?>> map) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ResultSet getResultSet(long index, int count) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ResultSet getResultSet(long index, int count, Map<String, Class<?>> map) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void free() throws SQLException {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public double[] getDoubleArray() throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public double[] getDoubleArray(long arg0, int arg1) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public float[] getFloatArray() throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public float[] getFloatArray(long arg0, int arg1) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int[] getIntArray() throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int[] getIntArray(long arg0, int arg1) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Map<?, ?> getJavaMap() throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public long[] getLongArray() throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public long[] getLongArray(long arg0, int arg1) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OracleTypeMetaData getOracleMetaData() throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getSQLTypeName() throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public short[] getShortArray() throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public short[] getShortArray(long arg0, int arg1) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int length() throws SQLException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public Object toJdbc() throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.sdas.orclcon.repository;
+
+import javax.persistence.EntityManager;
+
+import org.springframework.data.jpa.repository.support.SimpleJpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class ConnectionDAO extends SimpleJpaRepository<TestTable, Integer>{
+
+	
+
+}

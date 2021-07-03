@@ -1,0 +1,5 @@
+1624246137166	Rename local variable 'op'
+1624246166566	Rename local variable 'finalop'
+1624247497133	Rename local variable 'reveresedArr'
+1624250350600	Extract method 'sortInDemand'
+1624281841036	Copy compilation unit

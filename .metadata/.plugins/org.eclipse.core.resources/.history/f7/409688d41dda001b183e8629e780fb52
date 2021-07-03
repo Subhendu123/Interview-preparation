@@ -1,0 +1,15 @@
+package com.sdas.orclcon.dao;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.sdas.orclcon.repository.OracleConnTest;
+
+@Service
+public class OracleConnDAO {
+
+	@Autowired
+	public OracleConnTest test;
+	
+	
+}

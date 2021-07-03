@@ -1,0 +1,13 @@
+package com.personal.hackerank;
+
+public class StringSort {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String s="zabac";
+		char[] strArr = s.toCharArray();
+		
+
+	}
+
+}

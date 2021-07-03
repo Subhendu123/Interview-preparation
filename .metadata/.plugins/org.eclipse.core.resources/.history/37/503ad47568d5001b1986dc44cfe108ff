@@ -1,0 +1,21 @@
+package com.personal.java8;
+
+import java.util.function.Function;
+
+@FunctionalInterface
+interface Interf {
+	
+	public void method();
+}
+ 
+
+public class LambdaExpEx01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Interf i = () -> {System.out.print("khan");};
+		i.method();
+	}
+
+	
+}

@@ -1,0 +1,48 @@
+package com.personal.hackerank;
+
+import java.io.IOException;
+
+public class SolutionTicTacToe {
+
+	public static void main(String[] args) throws IOException {
+//        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+//
+//        String[] firstMultipleInput = bufferedReader.readLine().replaceAll("\\s+$", "").split(" ");
+//
+//        int n = Integer.parseInt(firstMultipleInput[0]);
+//
+//        String s = firstMultipleInput[1];
+//
+//        bufferedReader.close();
+//		char[][] input = {{'_','_','_'},{'_','_','_'},{'_','_','_'}};
+//		char nextPlayersMove = 'X';
+//		nextMove(nextPlayersMove,input);
+		
+		C c = new C();
+		c.m();
+		
+		
+    }
+
+	private static void nextMove(char nextPlayersMove, char[][] input) {
+
+		
+	}
+
+}
+class A{
+	public void m() {
+		System.out.println("A");
+}
+}
+class B extends A{
+	public void m() {
+		System.out.println("B");
+}
+}
+class C extends B{
+	public void m() {
+		super.m();
+		System.out.println("C");
+}
+}

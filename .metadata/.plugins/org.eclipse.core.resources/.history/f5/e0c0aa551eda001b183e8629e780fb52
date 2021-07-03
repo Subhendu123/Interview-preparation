@@ -1,0 +1,22 @@
+package com.sdas.orclcon;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import com.sdas.orclcon.repository.ConnectionDAO;
+
+@SpringBootApplication
+public class OrclconApplication {
+	@Autowired
+	public static ConnectionDAO test;
+	
+	public static void main(String[] args) {
+		SpringApplication.run(OrclconApplication.class, args);
+		System.out.println("/****************** ALL Result ******************/");
+		
+		System.out.println(test.findAll());
+		
+	}
+
+}

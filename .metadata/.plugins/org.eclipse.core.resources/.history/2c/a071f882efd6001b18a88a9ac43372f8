@@ -1,0 +1,14 @@
+package com.personal.hackerank;
+
+public class Opentext {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int N = 5858;
+		Integer aN = new Integer(N);
+		
+		char[] charArr = aN.toString().toCharArray();
+		System.out.println(aN.toString().indexOf("5"));
+	}
+
+}

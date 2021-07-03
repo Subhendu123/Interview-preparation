@@ -1,0 +1,40 @@
+package com.personal.hackerank;
+
+public class Opentext {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int N = 5858;
+		Integer aN = new Integer(N);
+		
+		char[] charArr = aN.toString().toCharArray();
+		int index = aN.toString().indexOf("5");
+		char[] charArrOp = new char[aN.toString().length()];
+		int j =0;
+		boolean firstfiveIsFound = false;
+		for(int i=0;i<charArr.length;i++) {
+			if(charArr[i] == '5' && !firstfiveIsFound)
+				firstfiveIsFound = true;
+			else if(charArr[i] != '5' || firstfiveIsFound) {
+				charArrOp[j] = charArr[i];
+				j++;
+			}
+			
+		}
+		int[] op = new int[charArrOp.length];
+		for(int i=0;i<charArrOp.length;i++) {
+			op[i] = charArrOp[i];
+		}
+		StringBuilder strNum = new StringBuilder();
+
+		for (int num : op) 
+		{
+		     strNum.append(num);
+		}
+		int finalInt = Integer.parseInt(strNum.toString());
+		System.out.println(finalInt);
+		
+		
+	}
+
+}
