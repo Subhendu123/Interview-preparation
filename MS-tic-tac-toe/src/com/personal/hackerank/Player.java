@@ -17,10 +17,10 @@ public class Player{
 		return "Player [name=" + name + ", score=" + score + "]";
 	}
 
-//	@Override
-//	public int hashCode() {
-//		return 5;
-//	}
+	@Override
+	public int hashCode() {
+		return 5;
+	}
 
 	
 //	@Override
