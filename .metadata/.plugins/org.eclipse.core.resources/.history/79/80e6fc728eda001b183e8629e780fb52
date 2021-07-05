@@ -1,7 +1,0 @@
-package com.sdas.orclcon.repository;
-
-import org.springframework.data.jpa.repository.support.JpaEntityInformation;
-
-public class JpaEntityInformationImpl implements JpaEntityInformation<T, ID> {
-
-}

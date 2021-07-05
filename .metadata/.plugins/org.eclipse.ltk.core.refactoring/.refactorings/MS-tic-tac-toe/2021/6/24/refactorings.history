@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Extract method &apos;private static String getLargestString(String s, int k)&apos; from &apos;com.personal.hackerank.MShackerrankString.main(...)&apos; to &apos;com.personal.hackerank.MShackerrankString&apos;&#x0D;&#x0A;- Original project: &apos;MS-tic-tac-toe&apos;&#x0D;&#x0A;- Method name: &apos;getLargestString&apos;&#x0D;&#x0A;- Destination type: &apos;com.personal.hackerank.MShackerrankString&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;getLargestString&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;com.personal.hackerank{MShackerrankString.java" name="getLargestString" replace="false" selection="212 450" stamp="1624166263771" version="1.0" visibility="2"/>
-</session>
