@@ -2,7 +2,6 @@ package com.mazeresolver.hibdbstudy.dao;
 
 import java.util.List;
 
-import javax.persistence.TypedQuery;
 import javax.transaction.Transactional;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -19,9 +18,14 @@ public class StudentDao {
 	@Autowired
 	private StudentRepository studentRepository;
 
+	
 	public List<Student> getStudents() {
 
 		return studentRepository.getStudents();
+	}
+	
+	public void saveAll(Student s) {
+		studentRepository.saveAll(s);
 	}
 	
 	

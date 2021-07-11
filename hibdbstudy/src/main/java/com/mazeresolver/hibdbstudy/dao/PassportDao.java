@@ -20,6 +20,7 @@ public class PassportDao {
 	@Autowired
 	private PassportRepository passportRepository;
 
+	
 	public List<Passport> getPassports() {
 
 		return passportRepository.getPassports();

@@ -1,10 +1,13 @@
 package com.mazeresolver.hibdbstudy.models;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.OneToOne;
-import javax.persistence.Table;
+
+import com.fasterxml.jackson.annotation.JsonManagedReference;
+
 
 @Entity
 public class Student {
@@ -14,9 +17,12 @@ public class Student {
 	
 	private String name;
 	
-//	@OneToOne
-//	@JoinColumn(name = "s_id")
-//	private Passport passport;
+	private String passportId;
+	
+	@OneToOne(cascade = CascadeType.ALL)
+	@JoinColumn(name = "passportId", insertable = false, updatable = false)
+	@JsonManagedReference
+	private Passport passport;
 	
 	public Student() {
 		
@@ -33,6 +39,25 @@ public class Student {
 	public void setName(String name) {
 		this.name = name;
 	}
+
+	public String getPassportId() {
+		return passportId;
+	}
+
+	public void setPassportId(String passportId) {
+		this.passportId = passportId;
+	}
+
+	public Passport getPassport() {
+		return passport;
+	}
+
+	public void setPassport(Passport passport) {
+		this.passport = passport;
+	}
+	
+	
+	
 	
 	
 }
