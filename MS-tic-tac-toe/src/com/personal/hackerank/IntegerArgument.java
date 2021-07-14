@@ -14,10 +14,10 @@ public class IntegerArgument {
 		return "IntegerArgument [arg=" + arg + "]";
 	}
 	
-	@Override
-    public int hashCode() {
-        return 5;
-    }
+//	@Override
+//    public int hashCode() {
+//        return 5;
+//    }
 	
 	
 

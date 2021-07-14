@@ -4,9 +4,11 @@ public class Finastra {
 
 	public static void main(String[] args) {
 //		System.out.println("ABC");
+		// 698 -> 5 -> 5698 6598 6958 6985
+		// -698 -> 5 -> -5698 -6598 -6958 -6985
 		
 //		String s = String.valueOf(ar);
-		int N = 80;
+		int N = 849; // -8-4-9-
 		String s = new String();
 		if(N > 0) {
 			s = String.valueOf(N);
