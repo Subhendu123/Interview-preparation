@@ -4,6 +4,7 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -41,8 +42,8 @@ public class StudentController {
 		studentDao.saveAll(std);
 	}
 	
-	@PutMapping("/save-all")
-	public void saveAll(@RequestParam("id") int id,@RequestBody Student std) {
+	@PostMapping("/save-all/{id}")
+	public void saveAll(@PathVariable int id,@RequestBody Student std) {
 		if(std.getId() == id)
 			studentDao.saveAll(std);
 		else

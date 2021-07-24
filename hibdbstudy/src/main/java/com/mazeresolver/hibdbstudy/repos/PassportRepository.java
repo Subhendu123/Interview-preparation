@@ -6,6 +6,7 @@ import javax.persistence.EntityManager;
 import javax.persistence.TypedQuery;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Repository;
 
 import com.mazeresolver.hibdbstudy.models.Passport;
@@ -20,7 +21,14 @@ public class PassportRepository {
 	public List<Passport> getPassports(){
 		
 		TypedQuery<Passport> query = em.createQuery("from Passport", Passport.class);
+		NewBean nb;
 		return query.getResultList();
+		
+	}
+	
+	@Bean
+	public NewBean getBean() {
+		return new NewBean();
 	}
 
 }
