@@ -12,7 +12,7 @@ public class MorganStanleyPlayerProblem {
 		availablePlayers.add(4);
 		availablePlayers.add(10);
 //		availablePlayers.add(15);
-//		availablePlayers.add(9);
+		availablePlayers.add(9);
 //		availablePlayers.add(7);
 //		availablePlayers.add(3);
 //		availablePlayers.add(8);
@@ -28,6 +28,10 @@ public class MorganStanleyPlayerProblem {
 		List<Integer> squad = availablePlayers.stream().filter(availablePlayer -> availablePlayer.compareTo(minLevel) >= 0
 				&& availablePlayer.compareTo(maxLevel) <= 0)
 		.collect(Collectors.toList());
+		availablePlayers.stream().filter(availablePlayer -> availablePlayer.compareTo(minLevel) >= 0
+				&& availablePlayer.compareTo(maxLevel) <= 0);
+		System.out.println(availablePlayers);
+		
 		if(squad.size() < minNoOfPlayers)
 			return 0;
 		else if(squad.size() == minNoOfPlayers)

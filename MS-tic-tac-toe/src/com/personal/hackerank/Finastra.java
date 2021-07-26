@@ -1,5 +1,7 @@
 package com.personal.hackerank;
 
+import java.util.List;
+
 public class Finastra {
 
 	public static void main(String[] args) {
@@ -42,6 +44,11 @@ public class Finastra {
 		
 //		return Integer.valueOf(String.valueOf(ar).trim());
 		System.out.println(Integer.valueOf(String.valueOf(ar).trim()));
+		System.out.println("Sss".getClass().getSimpleName());
+		System.out.println("piper".charAt(3));
+		
+		
+		System.out.println();
 		
 		
 	}

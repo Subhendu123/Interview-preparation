@@ -1,12 +1,9 @@
 package com.personal.hackerank;
 
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.Map;
-import java.util.TreeMap;
-import java.util.WeakHashMap;
+import java.util.Map.Entry;
+import java.util.Set;
+import java.util.TreeSet;
 
 public class MapExample02 {
 
@@ -23,11 +20,18 @@ public class MapExample02 {
 		IntegerArgument input2 = input1;
 		IntegerArgument input3 = input2;
 		
+		new ChildMain();
+		
 		// 1 -> []
 	
 		map.put(input1, 1);// 9 -> [1]
 		map.put(input2, 2);// 9 -> [2]
 		
+		HashMap<String, Integer> mapForTree = new HashMap<String, Integer>();
+		
+		mapForTree.put("A", 1);
+//		mapForTree.put(null, null);
+		mapForTree.put("B", 2);
 //		System.out.println(map.size());
 //		
 //		for(IntegerArgument p : map.keySet()) {
@@ -40,8 +44,22 @@ public class MapExample02 {
 		
 		// return ResponseEntity.statuscode.Accepted;
 		//sddsds
-		new TestMain002().m(null);
+		Set s = mapForTree.entrySet();
+		Set treeset = mapForTree.entrySet();
+		treeset.add(2);
+		treeset.forEach( t -> System.out.println(t));
+//		new TestMain002().m(null);
 	}
+	
+}
+
+abstract class TestMain003{
+	public TestMain003() {
+		// TODO Auto-generated constructor stub
+		System.out.println("test main 003 - abs");
+	}
+}
+class ChildMain extends TestMain003 {
 	
 }
 
