@@ -20,6 +20,8 @@ public class FileEx03
 		pw.println("See new line without sep method!!! Boy this is amazing!!");
 		pw.print(1000);// need to add number not a unicode!!!!
 		pw.println("\t need to add number not a unicode!!!!");
+		pw.write(100);// will print UNICODE of 100 - D
+		pw.print(100);// will print the no 100
 		pw.println("This is last line! Fall in love with PW!");
 		pw.flush();
 		pw.close();

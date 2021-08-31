@@ -1,0 +1,100 @@
+sofifa_id,player_url,short_name,long_name,age,dob,height_cm,weight_kg,nationality,club,overall,potential,value_eur,wage_eur,player_positions,preferred_foot
+158023,https://sofifa.com/player/158023/lionel-messi/20/159586,L. Messi,Lionel Andrés Messi Cuccittini,32,24/06/1987,170,72,Argentina,FC Barcelona,94,94,95500000,565000,"RW, CF, ST",Left
+20801,https://sofifa.com/player/20801/c-ronaldo-dos-santos-aveiro/20/159586,Cristiano Ronaldo,Cristiano Ronaldo dos Santos Aveiro,34,05/02/1985,187,83,Portugal,Juventus,93,93,58500000,405000,"ST, LW",Right
+190871,https://sofifa.com/player/190871/neymar-da-silva-santos-jr/20/159586,Neymar Jr,Neymar da Silva Santos Junior,27,05/02/1992,175,68,Brazil,Paris Saint-Germain,92,92,105500000,290000,"LW, CAM",Right
+200389,https://sofifa.com/player/200389/jan-oblak/20/159586,J. Oblak,Jan Oblak,26,07/01/1993,188,87,Slovenia,Atlético Madrid,91,93,77500000,125000,GK,Right
+183277,https://sofifa.com/player/183277/eden-hazard/20/159586,E. Hazard,Eden Hazard,28,07/01/1991,175,74,Belgium,Real Madrid,91,91,90000000,470000,"LW, CF",Right
+192985,https://sofifa.com/player/192985/kevin-de-bruyne/20/159586,K. De Bruyne,Kevin De Bruyne,28,28/06/1991,181,70,Belgium,Manchester City,91,91,90000000,370000,"CAM, CM",Right
+192448,https://sofifa.com/player/192448/marc-andre-ter-stegen/20/159586,M. ter Stegen,Marc-André ter Stegen,27,30/04/1992,187,85,Germany,FC Barcelona,90,93,67500000,250000,GK,Right
+203376,https://sofifa.com/player/203376/virgil-van-dijk/20/159586,V. van Dijk,Virgil van Dijk,27,08/07/1991,193,92,Netherlands,Liverpool,90,91,78000000,200000,CB,Right
+177003,https://sofifa.com/player/177003/luka-modric/20/159586,L. Modrić,Luka Modrić,33,09/09/1985,172,66,Croatia,Real Madrid,90,90,45000000,340000,CM,Right
+209331,https://sofifa.com/player/209331/mohamed-salah/20/159586,M. Salah,Mohamed  Salah Ghaly,27,15/06/1992,175,71,Egypt,Liverpool,90,90,80500000,240000,"RW, ST",Left
+231747,https://sofifa.com/player/231747/kylian-mbappe/20/159586,K. Mbappé,Kylian Mbappé,20,20/12/1998,178,73,France,Paris Saint-Germain,89,95,93500000,155000,"ST, RW",Right
+201024,https://sofifa.com/player/201024/kalidou-koulibaly/20/159586,K. Koulibaly,Kalidou Koulibaly,28,20/06/1991,187,89,Senegal,Napoli,89,91,67500000,150000,CB,Right
+202126,https://sofifa.com/player/202126/harry-kane/20/159586,H. Kane,Harry Kane,25,28/07/1993,188,89,England,Tottenham Hotspur,89,91,83000000,220000,ST,Right
+212831,https://sofifa.com/player/212831/alisson-ramses-becker/20/159586,Alisson,Alisson Ramses Becker,26,02/10/1992,191,91,Brazil,Liverpool,89,91,58000000,155000,GK,Right
+193080,https://sofifa.com/player/193080/david-de-gea-quintana/20/159586,De Gea,David De Gea Quintana,28,07/11/1990,192,82,Spain,Manchester United,89,90,56000000,205000,GK,Right
+215914,https://sofifa.com/player/215914/ngolo-kante/20/159586,N. Kanté,N'Golo Kanté,28,29/03/1991,168,72,France,Chelsea,89,90,66000000,235000,"CDM, CM",Right
+138956,https://sofifa.com/player/138956/giorgio-chiellini/20/159586,G. Chiellini,Giorgio Chiellini,34,14/08/1984,187,85,Italy,Juventus,89,89,24500000,215000,CB,Left
+153079,https://sofifa.com/player/153079/sergio-aguero/20/159586,S. Agüero,Sergio Leonel Agüero del Castillo,31,02/06/1988,173,70,Argentina,Manchester City,89,89,60000000,300000,ST,Right
+155862,https://sofifa.com/player/155862/sergio-ramos-garcia/20/159586,Sergio Ramos,Sergio Ramos García,33,30/03/1986,184,82,Spain,Real Madrid,89,89,31500000,300000,CB,Right
+176580,https://sofifa.com/player/176580/luis-suarez/20/159586,L. Suárez,Luis Alberto Suárez Díaz,32,24/01/1987,182,86,Uruguay,FC Barcelona,89,89,53000000,355000,ST,Right
+188545,https://sofifa.com/player/188545/robert-lewandowski/20/159586,R. Lewandowski,Robert Lewandowski,30,21/08/1988,184,80,Poland,FC Bayern München,89,89,64500000,235000,ST,Right
+189511,https://sofifa.com/player/189511/sergio-busquets-burgos/20/159586,Sergio Busquets,Sergio Busquets i Burgos,30,16/07/1988,189,76,Spain,FC Barcelona,89,89,55000000,300000,"CDM, CM",Right
+194765,https://sofifa.com/player/194765/antoine-griezmann/20/159586,A. Griezmann,Antoine Griezmann,28,21/03/1991,176,73,France,FC Barcelona,89,89,69000000,370000,"CF, ST, LW",Left
+211110,https://sofifa.com/player/211110/paulo-dybala/20/159586,P. Dybala,Paulo Bruno Exequiel Dybala,25,15/11/1993,177,75,Argentina,Juventus,88,92,76500000,215000,"CAM, RW",Left
+195864,https://sofifa.com/player/195864/paul-pogba/20/159586,P. Pogba,Paul Pogba,26,15/03/1993,191,84,France,Manchester United,88,91,72500000,250000,"CM, CDM",Right
+210257,https://sofifa.com/player/210257/ederson-santana-de-moraes/20/159586,Ederson,Ederson Santana de Moraes,25,17/08/1993,188,86,Brazil,Manchester City,88,91,54500000,185000,GK,Left
+202652,https://sofifa.com/player/202652/raheem-sterling/20/159586,R. Sterling,Raheem Sterling,24,08/12/1994,170,69,England,Manchester City,88,90,73000000,255000,"RW, LW",Right
+190460,https://sofifa.com/player/190460/christian-eriksen/20/159586,C. Eriksen,Christian  Dannemann Eriksen,27,14/02/1992,181,76,Denmark,Tottenham Hotspur,88,89,68000000,205000,"CAM, CM",Right
+192119,https://sofifa.com/player/192119/thibaut-courtois/20/159586,T. Courtois,Thibaut Courtois,27,11/05/1992,199,96,Belgium,Real Madrid,88,89,48000000,235000,GK,Left
+152729,https://sofifa.com/player/152729/gerard-pique-bernabeu/20/159586,Piqué,Gerard Piqué Bernabéu,32,02/02/1987,194,85,Spain,FC Barcelona,88,88,38000000,285000,CB,Right
+162835,https://sofifa.com/player/162835/samir-handanovic/20/159586,S. Handanovič,Samir Handanovič,34,14/07/1984,193,92,Slovenia,Inter,88,88,26000000,110000,GK,Right
+167495,https://sofifa.com/player/167495/manuel-neuer/20/159586,M. Neuer,Manuel Neuer,33,27/03/1986,193,92,Germany,FC Bayern München,88,88,32000000,155000,GK,Right
+167948,https://sofifa.com/player/167948/hugo-lloris/20/159586,H. Lloris,Hugo Lloris,32,26/12/1986,188,82,France,Tottenham Hotspur,88,88,36000000,150000,GK,Left
+168542,https://sofifa.com/player/168542/david-josue-jimenez-silva/20/159586,David Silva,David Josué Jiménez Silva,33,08/01/1986,173,67,Spain,Manchester City,88,88,36000000,265000,"CAM, CM",Left
+179813,https://sofifa.com/player/179813/edinson-cavani/20/159586,E. Cavani,Edinson Roberto Cavani Gómez,32,14/02/1987,185,77,Uruguay,Paris Saint-Germain,88,88,47000000,195000,ST,Right
+182493,https://sofifa.com/player/182493/diego-godin/20/159586,D. Godín,Diego Godín,33,16/02/1986,187,78,Uruguay,Inter,88,88,28000000,135000,CB,Right
+182521,https://sofifa.com/player/182521/toni-kroos/20/159586,T. Kroos,Toni Kroos,29,04/01/1990,183,76,Germany,Real Madrid,88,88,57000000,330000,CM,Right
+188350,https://sofifa.com/player/188350/marco-reus/20/159586,M. Reus,Marco Reus,30,31/05/1989,180,71,Germany,Borussia Dortmund,88,88,56000000,170000,"CAM, LM, ST",Right
+188567,https://sofifa.com/player/188567/pierre-emerick-aubameyang/20/159586,P. Aubameyang,Pierre-Emerick Aubameyang,30,18/06/1989,187,80,Gabon,Arsenal,88,88,57000000,205000,"ST, LM",Right
+208722,https://sofifa.com/player/208722/sadio-mane/20/159586,S. Mané,Sadio Mané,27,10/04/1992,175,69,Senegal,Liverpool,88,88,62000000,220000,"LW, LM",Right
+212218,https://sofifa.com/player/212218/aymeric-laporte/20/159586,A. Laporte,Aymeric  Laporte,25,27/05/1994,189,85,France,Manchester City,87,90,56500000,195000,"CB, LB",Left
+218667,https://sofifa.com/player/218667/bernardo-mota-carvalho-e-silva/20/159586,Bernardo Silva,Bernardo Mota Veiga de Carvalho e Silva,24,10/08/1994,173,64,Portugal,Manchester City,87,90,64000000,210000,"RW, CAM, CM",Left
+200145,https://sofifa.com/player/200145/carlos-henrique-venancio-casimiro/20/159586,Casemiro,Carlos Henrique Venancio Casimiro,27,23/02/1992,185,84,Brazil,Real Madrid,87,89,53500000,240000,CDM,Right
+200104,https://sofifa.com/player/200104/heung-min-son/20/159586,H. Son,손흥민 孙兴慜,26,08/07/1992,183,78,Korea Republic,Tottenham Hotspur,87,88,60000000,185000,"CF, LM",Right
+135507,https://sofifa.com/player/135507/fernando-luiz-rosa/20/159586,Fernandinho,Fernando Luiz Rosa,34,04/05/1985,179,67,Brazil,Manchester City,87,87,19500000,200000,CDM,Right
+164240,https://sofifa.com/player/164240/thiago-emiliano-da-silva/20/159586,Thiago Silva,Thiago Emiliano da Silva,34,22/09/1984,183,82,Brazil,Paris Saint-Germain,87,87,18500000,135000,CB,Right
+165153,https://sofifa.com/player/165153/karim-benzema/20/159586,K. Benzema,Karim Benzema,31,19/12/1987,185,81,France,Real Madrid,87,87,45000000,285000,"CF, ST",Right
+172871,https://sofifa.com/player/172871/jan-vertonghen/20/159586,J. Vertonghen,Jan Vertonghen,32,24/04/1987,189,86,Belgium,Tottenham Hotspur,87,87,32500000,155000,CB,Left
+175943,https://sofifa.com/player/175943/dries-mertens/20/159586,D. Mertens,Dries Mertens,32,06/05/1987,169,61,Belgium,Napoli,87,87,40000000,135000,"CF, ST",Right
+178603,https://sofifa.com/player/178603/mats-hummels/20/159586,M. Hummels,Mats  Hummels,30,16/12/1988,191,94,Germany,Borussia Dortmund,87,87,41000000,130000,CB,Right
+184087,https://sofifa.com/player/184087/toby-alderweireld/20/159586,T. Alderweireld,Toby Alderweireld,30,02/03/1989,186,81,Belgium,Tottenham Hotspur,87,87,41000000,155000,CB,Right
+189332,https://sofifa.com/player/189332/jordi-alba-ramos/20/159586,Jordi Alba,Jordi Alba Ramos,30,21/03/1989,170,68,Spain,FC Barcelona,87,87,40000000,240000,LB,Left
+189509,https://sofifa.com/player/189509/thiago-alcantara/20/159586,Thiago,Thiago Alcântara do Nascimento,28,11/04/1991,174,70,Spain,FC Bayern München,87,87,50000000,180000,"CM, CAM, CDM",Right
+193041,https://sofifa.com/player/193041/keylor-navas/20/159586,K. Navas,Keylor Navas,32,15/12/1986,185,80,Costa Rica,Real Madrid,87,87,30500000,195000,GK,Right
+198219,https://sofifa.com/player/198219/lorenzo-insigne/20/159586,L. Insigne,Lorenzo Insigne,28,04/06/1991,163,59,Italy,Napoli,87,87,52000000,140000,"CF, LW, ST",Right
+222492,https://sofifa.com/player/222492/leroy-sane/20/159586,L. Sané,Leroy Sané,23,11/01/1996,183,75,Germany,Manchester City,86,92,61000000,195000,LW,Left
+207865,https://sofifa.com/player/207865/marcos-aoas-correa/20/159586,Marquinhos,Marcos  Aoás Corrêa,25,14/05/1994,183,75,Brazil,Paris Saint-Germain,86,90,51500000,120000,"CB, CDM",Right
+232363,https://sofifa.com/player/232363/milan-skriniar/20/159586,M. Škriniar,Milan Škriniar,24,11/02/1995,187,80,Slovakia,Inter,86,90,52000000,89000,CB,Right
+199556,https://sofifa.com/player/199556/marco-verratti/20/159586,M. Verratti,Marco Verratti,26,05/11/1992,165,60,Italy,Paris Saint-Germain,86,89,54500000,140000,"CM, CDM",Right
+205600,https://sofifa.com/player/205600/samuel-umtiti/20/159586,S. Umtiti,Samuel Umtiti,25,14/11/1993,182,75,France,FC Barcelona,86,89,50000000,210000,CB,Left
+186153,https://sofifa.com/player/186153/wojciech-szczesny/20/159586,W. Szczęsny,Wojciech  Szczęsny,29,18/04/1990,195,90,Poland,Juventus,86,88,37500000,135000,GK,Right
+212622,https://sofifa.com/player/212622/joshua-kimmich/20/159586,J. Kimmich,Joshua Kimmich,24,08/02/1995,176,73,Germany,FC Bayern München,86,88,48000000,125000,"RB, CM, CDM",Right
+197781,https://sofifa.com/player/197781/francisco-roman-alarcon-suarez/20/159586,Isco,Francisco Román Alarcón Suárez,27,21/04/1992,176,79,Spain,Real Madrid,86,87,51000000,245000,"CAM, CM, LW",Right
+201942,https://sofifa.com/player/201942/roberto-firmino-barbosa-de-oliveira/20/159586,Roberto Firmino,Roberto Firmino Barbosa de Oliveira,27,02/10/1991,181,76,Brazil,Liverpool,86,87,52000000,170000,"CF, ST, CAM",Right
+168651,https://sofifa.com/player/168651/ivan-rakitic/20/159586,I. Rakitić,Ivan Rakitić,31,10/03/1988,184,78,Croatia,FC Barcelona,86,86,38000000,245000,"CM, CDM",Right
+180206,https://sofifa.com/player/180206/miralem-pjanic/20/159586,M. Pjanić,Miralem Pjanić,29,02/04/1990,178,72,Bosnia Herzegovina,Juventus,86,86,42500000,180000,"CM, CDM",Right
+183898,https://sofifa.com/player/183898/angel-di-maria/20/159586,A. Di María,Ángel Fabián Di María Hernández,31,14/02/1988,180,69,Argentina,Paris Saint-Germain,86,86,39000000,150000,"RW, LW",Left
+184344,https://sofifa.com/player/184344/leonardo-bonucci/20/159586,L. Bonucci,Leonardo Bonucci,32,01/05/1987,190,85,Italy,Juventus,86,86,28500000,160000,CB,Right
+189242,https://sofifa.com/player/189242/philippe-coutinho-correia/20/159586,Coutinho,Philippe Coutinho Correia,27,12/06/1992,172,68,Brazil,FC Bayern München,86,86,46500000,175000,"LW, CM",Right
+189513,https://sofifa.com/player/189513/daniel-parejo-munoz/20/159586,Parejo,Daniel Parejo Muñoz,30,16/04/1989,182,74,Spain,Valencia CF,86,86,41000000,69000,CM,Right
+189596,https://sofifa.com/player/189596/thomas-muller/20/159586,T. Müller,Thomas Müller,29,13/09/1989,186,75,Germany,FC Bayern München,86,86,43500000,170000,"CAM, RM, RW",Right
+192387,https://sofifa.com/player/192387/ciro-immobile/20/159586,C. Immobile,Ciro Immobile,29,20/02/1990,185,85,Italy,Lazio,86,86,44500000,105000,ST,Right
+193301,https://sofifa.com/player/193301/alexandre-lacazette/20/159586,A. Lacazette,Alexandre Lacazette,28,28/05/1991,175,73,France,Arsenal,86,86,46000000,165000,ST,Right
+235243,https://sofifa.com/player/235243/matthijs-de-ligt/20/159586,M. de Ligt,Matthijs de Ligt,19,12/08/1999,189,89,Netherlands,Juventus,85,93,50000000,76000,CB,Right
+230621,https://sofifa.com/player/230621/gianluigi-donnarumma/20/159586,G. Donnarumma,Gianluigi Donnarumma,20,25/02/1999,196,90,Italy,Milan,85,92,41500000,34000,GK,Right
+228702,https://sofifa.com/player/228702/frenkie-de-jong/20/159586,F. de Jong,Frenkie de Jong,22,12/05/1997,180,74,Netherlands,FC Barcelona,85,91,52000000,195000,"CM, CDM",Right
+201535,https://sofifa.com/player/201535/raphael-varane/20/159586,R. Varane,Raphaël Varane,26,25/04/1993,191,81,France,Real Madrid,85,90,45000000,205000,CB,Right
+212190,https://sofifa.com/player/212190/niklas-sule/20/159586,N. Süle,Niklas Süle,23,03/09/1995,195,97,Germany,FC Bayern München,85,90,46500000,115000,CB,Right
+223848,https://sofifa.com/player/223848/sergej-milinkovic-savic/20/159586,S. Milinković-Savić,Sergej Milinković-Savić,24,27/02/1995,191,76,Serbia,Lazio,85,90,50500000,73000,"CM, CAM",Right
+231866,https://sofifa.com/player/231866/rodrigo-hernandez-cascante/20/159586,Rodri,Rodrigo Hernández Cascante,23,22/06/1996,191,82,Spain,Manchester City,85,90,47000000,150000,"CDM, CM",Right
+208421,https://sofifa.com/player/208421/saul-niguez-esclapez/20/159586,Saúl,Saúl Ñíguez Esclápez,24,21/11/1994,184,77,Spain,Atlético Madrid,85,89,49500000,77000,"CM, LM, RM",Left
+209499,https://sofifa.com/player/209499/fabio-henrique-tavares/20/159586,Fabinho,Fábio Henrique Tavares,25,23/10/1993,188,78,Brazil,Liverpool,85,89,45000000,125000,CDM,Right
+216267,https://sofifa.com/player/216267/andrew-robertson/20/159586,A. Robertson,Andrew Robertson,25,11/03/1994,178,64,Scotland,Liverpool,85,89,43500000,125000,LB,Left
+216460,https://sofifa.com/player/216460/jose-maria-gimenez/20/159586,J. Giménez,José María Giménez de Vargas,24,20/01/1995,185,80,Uruguay,Atlético Madrid,85,89,45000000,69000,CB,Right
+220440,https://sofifa.com/player/220440/clement-lenglet/20/159586,C. Lenglet,Clément Lenglet,24,17/06/1995,186,81,France,FC Barcelona,85,89,45000000,175000,CB,Left
+212198,https://sofifa.com/player/212198/bruno-miguel-borges-fernandes/20/159586,Bruno Fernandes,Bruno Miguel Borges Fernandes,24,08/09/1994,179,69,Portugal,Sporting CP,85,88,49000000,24000,"CAM, CM",Right
+199482,https://sofifa.com/player/199482/anthony-lopes/20/159586,A. Lopes,Anthony Lopes,28,01/10/1990,184,81,Portugal,Olympique Lyonnais,85,87,33500000,88000,GK,Left
+185122,https://sofifa.com/player/185122/peter-gulacsi/20/159586,P. Gulácsi,Péter Gulácsi,29,06/05/1990,192,86,Hungary,RB Leipzig,85,86,31000000,69000,GK,Right
+189117,https://sofifa.com/player/189117/roman-burki/20/159586,R. Bürki,Roman Bürki,28,14/11/1990,187,85,Switzerland,Borussia Dortmund,85,86,32000000,92000,GK,Right
+192505,https://sofifa.com/player/192505/romelu-lukaku/20/159586,R. Lukaku,Romelu Lukaku,26,13/05/1993,190,94,Belgium,Inter,85,86,46000000,115000,ST,Left
+192774,https://sofifa.com/player/192774/kostas-manolas/20/159586,K. Manolas,Kostas Manolas,28,14/06/1991,189,83,Greece,Napoli,85,86,37500000,105000,CB,Right
+194404,https://sofifa.com/player/194404/norberto-murara-neto/20/159586,Neto,Norberto Murara Neto,29,19/07/1989,190,84,Brazil,FC Barcelona,85,86,31000000,175000,GK,Right
+197445,https://sofifa.com/player/197445/david-alaba/20/159586,D. Alaba,David Olatukunbo Alaba,27,24/06/1992,180,78,Austria,FC Bayern München,85,86,38000000,135000,"LB, CB",Left
+201399,https://sofifa.com/player/201399/mauro-icardi/20/159586,M. Icardi,Mauro Emanuel Icardi Rivero,26,19/02/1993,181,75,Argentina,Inter,85,86,46000000,115000,ST,Right
+204963,https://sofifa.com/player/204963/daniel-carvajal-ramos/20/159586,Carvajal,Daniel Carvajal Ramos,27,11/01/1992,173,73,Spain,Real Madrid,85,86,38000000,205000,RB,Right
+208670,https://sofifa.com/player/208670/hakim-ziyech/20/159586,H. Ziyech,Hakim Ziyech,26,19/03/1993,181,65,Morocco,Ajax,85,86,45000000,39000,"CAM, RW",Left
+41236,https://sofifa.com/player/41236/zlatan-ibrahimovic/20/159586,Z. Ibrahimović,Zlatan Ibrahimović,37,03/10/1981,195,95,Sweden,LA Galaxy,85,85,14000000,15000,ST,Right
+143076,https://sofifa.com/player/143076/alejandro-gomez/20/159586,A. Gómez,Alejandro Darío Gómez,31,15/02/1988,165,68,Argentina,Atalanta,85,85,34000000,92000,"CAM, CF, ST",Right
+167664,https://sofifa.com/player/167664/gonzalo-higuain/20/159586,G. Higuaín,Gonzalo Gerardo Higuaín,31,10/12/1987,186,89,Argentina,Juventus,85,85,34500000,175000,ST,Right
